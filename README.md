@@ -4,7 +4,7 @@
 
 **BASIC Easy Application Maker**
 
-BEAM is a cross-platform GUI application framework built on [Yabasic](https://www.yabasic.de/). It extends Yabasic with modern GUI capabilities using SDL2 and Nuklear, enabling programmers to create native desktop applications in an approachable BASIC dialect. BEAM is inspired by YAB, which extends Yabasic for application development on Haiku OS. BEAM is the fourth of 4 teaching languages developed by Fragillidae Software. The others are [STEPS](https://github.com/CFFinch62/STEPS) (verbose English-like entry language), [PLAIN](https://github.com/CFFinch62/PLAIN) (general purpose scripting language like a mix of Python and Go), and [FORGE](https://github.com/CFFinch62/FORGE) (statically typed systems programming language with easier beginner entry than C).
+BEAM is a cross-platform GUI application framework built on [Yabasic](https://www.yabasic.de/). It extends Yabasic with modern GUI capabilities using SDL2 and Nuklear, enabling programmers to create native desktop applications in an approachable BASIC dialect. BEAM is inspired by YAB, which extends Yabasic for application development on Haiku OS. BEAM is the fourth of 8 teaching languages developed by Fragillidae Software. Some others are [STEPS](https://github.com/CFFinch62/STEPS) (verbose English-like entry language), [PLAIN](https://github.com/CFFinch62/PLAIN) (general purpose scripting language like a mix of Python and Go), and [FORGE](https://github.com/CFFinch62/FORGE) (statically typed systems programming language with easier beginner entry than C).
 
 > *Build apps the easy way.*
 
